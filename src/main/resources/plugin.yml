@@ -1,0 +1,6 @@
+name: Obe
+main: me.myeolchi.obe.ObePlugin
+version: 1.0.0
+api-version: 1.19
+libraries:
+  - me.dolphin2410:tap-core:5.0.0
